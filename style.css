@@ -1,0 +1,15 @@
+/* Conteúdo principal do style.css (versão resumida para gerar o arquivo) */
+.LP-omega-saara {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.LP-omega-saara .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 2560px;
+  height: 5633px;
+}
+/* ... o restante do conteúdo já enviado anteriormente foi truncado aqui para resumo */
